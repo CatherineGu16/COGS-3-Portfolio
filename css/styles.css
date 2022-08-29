@@ -171,3 +171,40 @@ p {
     transform: rotate(0);
   }
 }
+
+
+/* --------------------------------veil.html---------------------------- */
+
+
+/* veil.html */
+#veil {
+  background-image: linear-gradient(#01004d, #00b4d8);
+  color: #fff;
+  padding: 70px;
+  text-align: left;
+}
+
+.veil-header {
+  margin-top: 5%;
+  font-size: 3.5rem;
+  color: #fffff;
+  text-align: center;
+}
+
+.veil-headings {
+  margin-top: 5%;
+  font-size: 2.5rem;
+  color: #fffff;
+  text-align: left;
+}
+
+.veil-body {
+  margin-top: 5%;
+  font-size: 2rem;
+  color: #fffff;
+  text-align: left;
+}
+
+.veil-column {
+  padding: 3% 2%;
+}
